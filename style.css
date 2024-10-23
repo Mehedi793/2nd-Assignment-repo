@@ -1,0 +1,70 @@
+
+
+.bg-1{background: url(images/trainer1.png);                
+                 min-height: 40vh;
+                 width: 20%;
+                 position: relative;
+                 background-position: center;
+                 background-size: cover;
+                 padding: 20px 40px;
+                 border-radius: 20px;
+                 
+                 }
+
+.bg-2{background: url(images/trainer2.png);
+    min-height: 40vh;
+                 width: 20%;
+                 position: relative;
+                 background-position: center;
+                 background-size: cover;
+                 padding: 20px 40px;
+                 border-radius: 20px;
+
+}
+
+.bg-3{background: url(images/trainer3.png);
+    min-height: 40vh;
+    width: 20%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    padding: 20px 40px;
+    border-radius: 20px;}
+
+.bg-4{background: url(images/trainer4.png);
+    min-height: 40vh;
+    width: 20%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    padding: 20px 40px;
+    border-radius: 20px;}
+.bg-5{background: url(images/trainer5.png);
+    min-height: 40vh;
+    width: 20%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    padding: 20px 40px;
+    border-radius: 20px;}
+.bg-6{background: url(images/trainer6.png);
+    min-height: 40vh;
+    width: 20%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    padding: 20px 40px;
+    border-radius: 20px;}
+
+
+
+.bg-title{color: #ffff;
+                
+           
+          }
+
+.bg-p{}
+
+.grid-1{grid-template-columns: repeat(3, 1fr);
+    display: grid;
+    /*  gap: 5px; */}
