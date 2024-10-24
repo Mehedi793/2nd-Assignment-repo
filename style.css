@@ -107,3 +107,19 @@ footer {
         flex-direction: column;
     
         }
+
+        @media screen and(min-width: 576px) and (max-width: 992px){
+            .teams, .features{flex-direction: column;}
+        
+        .our-features{margin: 50px auto;}
+        
+        .sponsor-companies{
+            grid-template-columns: (3, 1fr);
+            gap:50px;
+        }
+        
+        #experience-badge{
+            margin-top: 20px;
+            margin-left: 20px;
+        }
+        }
